@@ -1,5 +1,3 @@
-# projet-big-data-investissement-airbnb
-
 # Projet Big Data – Investissement dans Airbnb à Paris (France)
 
 ## Contexte 📌
